@@ -51,7 +51,6 @@ A pilha foi implementada com uma referência ao topo, usando a lógica de inser�
 
 > A estrutura segue o padrão **LIFO (Last-In, First-Out)** e trata com clareza os estados de pilha vazia e empilhamento.
 
-> Cada script possui exemplos de uso prático das estruturas para facilitar os testes e a visualização dos resultados.
 
 ---
 
